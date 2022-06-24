@@ -1,0 +1,4 @@
+{
+   "appService.defaultWebAppToDeploy": "/subscriptions/114f8ae4-7ce3-444a-9dea-5dd6cd838bd0/microsoft.web/sites/subscriptions/114f8ae4-7ce3-444a-9dea-5dd6cd838bd0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/technoshop-django",
+   "appService.deploySubpath": "."
+}
