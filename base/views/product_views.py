@@ -84,7 +84,7 @@ def updateProduct(request, pk):
     product.countInStock = data['countInStock']
     product.category = data['category']
     product.description = data['description']
-
+    product.image = request.FILES.get('image')
     product.save()
 
     serializer = ProductSerializer(product, many=False)
