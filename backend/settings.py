@@ -26,7 +26,7 @@ SECRET_KEY = 'sc%oco$+(3$z$at=z4j)#l-+ym)+_b11389mdt2^12m$bf63%@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False   
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'technoshop-hubash.herokuapp.com', 'technoshop-django.azurewebsites.net', 'technoshop-db.postgres.database.azure.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'technoshop-frontend.vercel.app', 'technoshop-hubash.herokuapp.com', 'technoshop-django.azurewebsites.net', 'technoshop-db.postgres.database.azure.com']
 
 
 # Application definition

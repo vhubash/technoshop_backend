@@ -23,7 +23,7 @@ function HomeScreen({ history }) {
 
     return (
         <div>
-            {!keyword && <ProductCarousel />}
+            {/* {!keyword && <ProductCarousel />} */}
 
             <h1>Нові товари</h1>
             {loading ? <Loader />
